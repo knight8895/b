@@ -1,0 +1,13 @@
+Administrator
+Amministratore
+Gestione
+Ospite
+Invitato
+Utente
+Prova
+Windows
+Administrator
+Admin
+User
+Guest
+Desktop
